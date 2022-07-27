@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Obasiarrey
 - 👀 I’m interested in UI/UX designing and Frontend developing
-- 🌱 I’m currently learning Java while improving my knowledge of C
+- 🌱 I’m currently learning HTML AND CSS for my studies on front end development while improving my skills on UI/UX designing
 - 📫 How to reach me obasiarreynjok@gmail.com 
 
 <!---
